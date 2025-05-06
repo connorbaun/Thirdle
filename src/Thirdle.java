@@ -37,6 +37,10 @@ public class Thirdle
         {
             System.out.println("YOU WIN");
         }
+        else
+        {
+            System.out.println("You LOSE.");
+        }
     }
 
     public static void process(String entry)
